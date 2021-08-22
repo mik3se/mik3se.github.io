@@ -1,5 +1,5 @@
 # mik3se.github.io
-A Website Just For Fun
+A Website Just For Fun. \n
 [Visit it here](https://mik3se.github.io)
 # Copyright
 Copyright (c) 2021 Michael Reyes All Rights Reserved.
