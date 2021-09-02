@@ -2,20 +2,20 @@
   font-family: 'Roboto';
   font-weight: normal;
   font-style: normal;
-  src: local('Roboto'), local('Roboto-Regular'), url('https://meerpup.github.io/fonts/Roboto-Regular.woff') format('woff');
+  src: local('Roboto'), local('Roboto-Regular'), url('https://mik3se.github.io/fonts/Roboto-Regular.woff') format('woff');
 }
 @font-face {
   font-family: 'Roboto';
   font-weight: bold;
   font-style: normal;
   src: url('https://meerpup.github.io/fonts/Roboto-Bold.woff') format('woff');
-  src: local('Roboto Bold'), local('Roboto-Bold'), url('https://meerpup.github.io/fonts/Roboto-Bold.woff') format('woff');
+  src: local('Roboto Bold'), local('Roboto-Bold'), url('https://mik3se.github.io/fonts/Roboto-Bold.woff') format('woff');
 }
 
 body {
   font-family: Roboto;
   color: white;
-  background-image: url("https://meerpup.github.io/images/bg.png");
+  background-image: url("https://mik3se.github.io/images/bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   text-align: left;
